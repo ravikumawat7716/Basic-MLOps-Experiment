@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rvk30/Coding/mlflow-test/mlruns/0/020605187c934d55a03d17bfc4912abf/artifacts
+end_time: 1734032736089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 020605187c934d55a03d17bfc4912abf
+run_name: classy-moose-102
+run_uuid: 020605187c934d55a03d17bfc4912abf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734032726632
+status: 3
+tags: []
+user_id: rvk30
